@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.futurafm.cl/wp-content/uploads/2019/07/Logo_futura_solo-1.png", Radio Futura
+https://unlimited5-cl.dps.live/futuratv/futuratv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiocandela.cl/website/templates/common/images/candela-logo-2017.png", Radio Candela
+http://unlimited1-cl.dps.live/candelatv/candelatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.pudahuel.cl/wp-content/themes/patatin/img/pudahuel.svg", Radio Pudahuel
+https://unlimited6-cl.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=“https://players.grupodial.cl/player/radio/img/45b312bfd616a3430ab90167854fe44b08121256.png”, Radio Duna
+https://unlimited5-cl.dps.live/dunatv/dunatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=“https://players.grupodial.cl/player/radio/img/45b312bfd616a3430ab90167854fe44b08121256.png”, Radio Zero
+https://unlimited10-cl.dps.live/zerotv/zerotv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=“http://static.romantica.cl/_common/images/logo-romantica.png”, Romantica FM
+http://unlimited2-cl.dps.live/romanticatv/romanticatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://resafe.cl/wp-content/uploads/2015/10/radio-la-clave-512x500.jpg", Radio La Clave
+https://unlimited10-cl.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiochilena.net/sites/default/files/radio/logos/logo-radio-universo.jpg", Radio Universo
+http://unlimited10-cl.dps.live/universotv/universotv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.wp.com/aam.cl/wp-content/uploads/2018/08/Radio_Infinita_2018-0.png?fit=213%2C143&ssl=1", Radio Infinita
+http://unlimited6-cl.dps.live/infinitatv/infinitatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45134_ADN.png",   ADN 
+http://unlimited5-cl.dps.live/adntv/adntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83832_Pauta.png", Pauta
+http://video-ply.pauta.cl/playlist/stream.m3u8?s=pauta-hd
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45135_Futuro_TV.png",  Futuro TV
+http://unlimited10-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45113_Big_Radio.png", Big Radio
+https://unlimited10-cl.dps.live/bigradio/bigradio.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45111_Carolina_TV.png",  Carolina TV
+http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=“https://www.tele13radio.cl/t13radio/site/artic/20190325/imag/foto_0000000120190325094031/logo_d.png”,  T13 Radio
+https://t13-radio-live.cdn.nedmedia.io/index.m3u8
+#EXTINF:-1 tvg-logo=“https://onradiochile.cl/wp-content/themes/onair2/img/logo_02.png”, OnRadio Chile
+http://tls.cdnz.cl/onradio3/live/playlist.m3u8
+#EXTINF:-1 tvg-logo=“https://vorterix.com/assets/img/logo-icon.png”, Vorterix Radio
+https://g1.vxral-hor.transport.edge-access.net/b12/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_360p.m3u8
+#EXTINF:-1 tvg-logo=“https://radiozeta.cl/wp-content/uploads/2019/04/logo.png”, RadioZ
+https://unlimited1-cl.dps.live/radioztv/radioztv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=“https://www.cooperativa.cl/noticias/site/artic/20181221/imag/foto_0000000120181221005527.jpg”, Cooperativa TV
+http://unlimited6-cl.dps.live/coopetv/coopetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=“https://www.radioagricultura.cl/_templates/desktop/includes/img/logo.png”, Radio Agricultura
+https://unlimited2-cl.dps.live/921tv/921tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=“http://www.fmtiempo.cl/wp-content/uploads/2018/06/logo.png”, FM Tiempo
+https://unlimited5-cl.dps.live/fmtiempotv/fmtiempotv.smil/playlist.m3u8
