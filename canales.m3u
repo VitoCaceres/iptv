@@ -1,0 +1,70 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45123_la_red.png", la red
+http://181.43.224.215:9981/stream/channelid/747536354
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45129_TV_.png", TV+
+https://mdstrm.com/live-stream-playlist/5cb5f2bd50ae45798813ba17.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/81741_TV_Chile.png", TV Chile
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45126_TVN.png",  TVN
+https://mdstrm.com/live-stream-playlist/5aa03fe47d246901a936111c.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45124_Mega.jpg",  Mega
+http://www.m3u.cl/channel/mega.php
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/70067_Mega_Plus.png", Mega Plus
+http://mdstrm.com/live-stream-playlist-v/5cec733982c03c34df27ccb3.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45122_CHV.png",  CHV
+https://mdstrm.com/live-stream-playlist/5cc0855ddf297e136a586daa.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45121_Canal_13.png",  Canal 13
+http://181.43.224.215:9981/stream/channelid/2060878988
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45104_TVN_Kids.png",  TVN Kids
+https://mdstrm.com/live-stream-playlist/5925dba039cfbf492f30b563.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45120_Camara_de_Diputados.png",  Cámara de Diputados
+http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45125_TV_Senado.png",  TV Senado
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/84048_TVN_24_Horas.png", TVN 24 Horas
+http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45130_TVN_24_Horas_2.png", TVN 24 Horas 2
+http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79045_Meganoticias.png", Meganoticias
+http://www.m3u.cl/channel/meganoticias.php
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45133_T13_Movil.png",  T13 Móvil
+http://t13-movil-live.cdn.nedmedia.io/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/74165_Bio_Bio_TV.png", Bio Bio TV
+https://unlimited2-cl.dps.live/bbtv/bbtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/68904_EMOL_TV.png", EMOL TV
+https://streaming.ecn.cl/hls/vivohd_hi/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45161_UCV_3___Gran_Valparaiso.png",   UCV 3 - Gran Valparaíso 
+https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/68737_STGO_TV.png", STGO.TV
+http://cdnapi.kaltura.com/p/2359831/sp/0/playManifest/entryId/1_3jx9rpfo/format/applehttp/protocol/http/manifest.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/78412_Campus_TV.png", Campus TV
+http://unlimited10-cl.dps.live/campustv/campustv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45157_TV_Centro.png", TV Centro
+https://unlimited5-cl.dps.live/tvcentro/tvcentro.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79756_UTV_San_Clemente.png", UTV San Clemente
+https://v2.tustreaming.cl/utvsc/live1/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45148_Contivision.png",   Contivisión 
+http://unlimited2-cl.dps.live/contivision/contivision.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45145_Canal_5_Linares.png",   Canal 5 Linares 
+http://unlimited2-cl.dps.live/tv5/tv5.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/47415_TVU.png", TVU
+https://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45146_Canal_9_Bio_Bio_TV.png", Canal 9 Bío Bío TV
+http://unlimited1-cl.dps.live/c9/c9.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/62025_LTV_canal.png", LTV canal
+http://204.12.194.82:1935/ltv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45127_TVN_de_Culto.png",  TVN de Culto
+http://mdstrm.com/live-stream-playlist/591f67a4232da1260ac8c950.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45108_CDO.jpg",  CDO
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45106_Teletrak_HD.jpg",  Teletrak HD
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45117_TVN_Records.png",  TVN Records
+https://mdstrm.com/live-stream-playlist/58cc0bf22d212a64177fddb1.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45103_Contivision_Musica.png",    Contivisión Musica 
+http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivo/contivisionmusica.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://argentina.mom-rsf.org/typo3temp/_processed_/6/e/csm_16018-1639_import_1aa4766f2d.png",  Canal 26 AR 
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w990096925_b1264000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78nfO6SrchGYhqZUJ_WKo9GAI3m4YS7-4QC_g=s900-c-k-c0xffffffff-no-rj-mo",  La Tercera TV
+http://unlimited2-cl.dps.live/lt/lt.smil/playlist.m3u8
+
