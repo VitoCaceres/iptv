@@ -75,8 +75,6 @@ https://stream-02.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFi9MFm_bvQlKOUmyv3
 https://live-normal-internacional-hls.latina.pe/egress/bhandler/cialatina/live/manifest.m3u8?nva=1583543742&ttl=432000&ip=181.74.138.155&hash=0cde910690e265b0ab5ad
 #EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png", AR Televisión Pública 
 https://wowzaprod169-i.akamaihd.net/hls/live/630337/59e4c1ec/59e4c1ec_1_1024000/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701169761.jpg", Antena 3 
-https://livestartover.atresmedia.com/antena3/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1528342716.gif", PE - TOP Latino 
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
 #EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15701149291.jpg", Telemusica 
