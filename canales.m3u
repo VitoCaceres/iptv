@@ -81,3 +81,5 @@ http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689
 https://5b464b69d264e.streamlock.net:443/live/smil:telemusica_web.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dz92jh1unkapm.cloudfront.net/accounts/5bbcf78db827ce76aa82a6a0/logo.png", America TV ARG
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 tvg-logo="https://www.elnueve.com.ar/wp-content/themes/elnueve-ned-theme/img/logo.png", El Nueve ARG
+https://ar-elnueve-elnueve-live.ned.media/elnueve/smil:elnueve.smil/chunklist_b2200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTc2MDEwNTM5LCJzZXNzaW9uIjoiMTgxLjc0LjEzOC4xNTUiLCJ3aGl0ZWxpc3QiOlsiMTgxLjc0LjEzOC4xNTUiXX0sInNpZ25hdHVyZSI6IjNlNjFkYTQ2ZGQ4ZDIzZDEzNGEwMmNmZTRkYzkyMmIyMjVjZDZhZGIifQ%3D%3D
