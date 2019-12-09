@@ -43,3 +43,5 @@ https://unlimited2-cl.dps.live/921tv/921tv.smil/playlist.m3u8
 https://unlimited5-cl.dps.live/fmtiempotv/fmtiempotv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo=“http://directostv.teleame.com/wp-content/uploads/2018/04/musictop.png”, Music TOP
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 tvg-logo=“http://grupoprensapitiusa.es/images/logo%20IGTV.png”, Ibiza Global TV
+http://server10.streaming-pro.com:1937/live/ibgtvlive/chunklist_w772338264.m3u8
