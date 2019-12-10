@@ -87,3 +87,5 @@ https://ar-elnueve-elnueve-live.ned.media/elnueve/smil:elnueve.smil/chunklist_b2
 https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/ef348726-2df5-4b61-b6bd-7caa4d29194a:CHS/variant/4b6475d14ee905150d7e1a8949241140/bandwidth/1500000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/NTN24_Logo.png/800px-NTN24_Logo.png", NTN24 col
 https://rcnhd.cdn.net.co/live04/ntn24_480p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Atv%2B.png", ATV+ Perú
+https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTc2MDk0MDcwLCJzZXNzaW9uIjoiMTgxLjc0LjEzOC4xNTUiLCJ3aGl0ZWxpc3QiOlsiMTgxLjc0LjEzOC4xNTUiXX0sInNpZ25hdHVyZSI6ImFkZmE2ODNlMGMxZGJlNmIzMTgzYjE3OThmMTg0NzI4MDg0YjM0NTgifQ%3D%3D
