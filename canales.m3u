@@ -89,3 +89,5 @@ https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/ef34872
 https://rcnhd.cdn.net.co/live04/ntn24_480p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Atv%2B.png", ATV+ Perú
 https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTc2MDk0MDcwLCJzZXNzaW9uIjoiMTgxLjc0LjEzOC4xNTUiLCJ3aGl0ZWxpc3QiOlsiMTgxLjc0LjEzOC4xNTUiXX0sInNpZ25hdHVyZSI6ImFkZmE2ODNlMGMxZGJlNmIzMTgzYjE3OThmMTg0NzI4MDg0YjM0NTgifQ%3D%3D
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/799px-Euronews_2016_logo.svg.png", EuroNews
+https://euronews-es-p9-cdn.hexaglobe.net/36195956865981545ef9f6ecb8ca6518/5deff941/euronews/euronews-euronews-website-web-responsive-2/ewnsabrespri_spa.smil/ewnsabrespri_spa_540p.m3u8
