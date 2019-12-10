@@ -83,3 +83,5 @@ https://5b464b69d264e.streamlock.net:443/live/smil:telemusica_web.smil/playlist.
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://www.elnueve.com.ar/wp-content/themes/elnueve-ned-theme/img/logo.png", El Nueve ARG
 https://ar-elnueve-elnueve-live.ned.media/elnueve/smil:elnueve.smil/chunklist_b2200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTc2MDEwNTM5LCJzZXNzaW9uIjoiMTgxLjc0LjEzOC4xNTUiLCJ3aGl0ZWxpc3QiOlsiMTgxLjc0LjEzOC4xNTUiXX0sInNpZ25hdHVyZSI6IjNlNjFkYTQ2ZGQ4ZDIzZDEzNGEwMmNmZTRkYzkyMmIyMjVjZDZhZGIifQ%3D%3D
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/258px-A24-logo.svg.png", A24 ARG
+https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/ef348726-2df5-4b61-b6bd-7caa4d29194a:CHS/variant/4b6475d14ee905150d7e1a8949241140/bandwidth/1500000.m3u8
