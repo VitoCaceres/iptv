@@ -95,3 +95,5 @@ https://euronews-es-p9-cdn.hexaglobe.net/36195956865981545ef9f6ecb8ca6518/5deff9
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_1500_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/125px-Logo_TVE-2.svg.png", La2 ESP
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png", Telefe ARG
+https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=st=1576016645~exp=1576193045~acl=/i/mdqdistri02_1@829747/*~hmac=8075375ed90991681572cd178baa543970b9d5a4e96f493751fa910926809bee
