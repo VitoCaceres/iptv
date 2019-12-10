@@ -93,3 +93,5 @@ https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/chunklist_b1024000.m
 https://euronews-es-p9-cdn.hexaglobe.net/36195956865981545ef9f6ecb8ca6518/5deff941/euronews/euronews-euronews-website-web-responsive-2/ewnsabrespri_spa.smil/ewnsabrespri_spa_540p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png", La1 ESP
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/125px-Logo_TVE-2.svg.png", La2 ESP
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
