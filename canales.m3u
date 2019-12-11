@@ -103,3 +103,5 @@ https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea
 https://live-edge-bhs-1.cdn.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2024/live-1500/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png", TVPerú HD
 https://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-logo="#", ESPN+ (P)
+https://ul.cdn946.net:8443/hls/xgpqy4easn8er1.m3u8?s=7PXWzflWWhPN92T4YvYIHA&e=1576114840
