@@ -3,6 +3,8 @@
 https://cl-lared-lared-live.ned.media/lared/smil:lared.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45129_TV_.png", TV+
 https://mdstrm.com/live-stream-playlist/5cb5f2bd50ae45798813ba17.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45129_TV_.png", TV+ (P)
+https://cl-a7-i-e-nq1.cdn.mdstrm.com/live-stream/5c0e8b19e4c87f3f2d3e6a59/publish/media_2000.m3u8?uid=dV1Mq9UcYAzEkSP13NPaglzrrTElOJ5A&sid=mDqWZlsflivf6TmYkToxIZCKkQatBvGr&pid=3GEsDwYNc7Ix91GptBNCmQSKqESujdFP&ref=https%3A%2F%2Fwww.tvmas.tv%2F&dnt=true&access_token=W1woYPZ9lhqfqnLQwdMRMxUavG3WsZSkZLmBksbP3I29WTQderxDf5ipQHT67xceA4jKFhRV8Uf&es=cl-a7-i-e-nq1.cdn.mdstrm.com&ote=1576187316279&ot=FadlMmKAHmDGGKlk4AzDxw&proto=https&pz=cl
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/81741_TV_Chile.png", TV Chile
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45126_TVN.png",  TVN chile
