@@ -99,3 +99,5 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=st=1576016645~exp=1576193045~acl=/i/mdqdistri02_1@829747/*~hmac=8075375ed90991681572cd178baa543970b9d5a4e96f493751fa910926809bee
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png", Telefe ARG 2
 https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1576016752~exp=1576193152~acl=/i/canal8cordoba_1@685726/*~hmac=3d9534f77e8449b563bd3a67d1e5632279c364e202afe52ebc354e3f32d83047
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Logo-ForoTV-2016.png/125px-Logo-ForoTV-2016.png", Foro TV Mex
+https://d31i6g04bm7cbv.cloudfront.net/forotv/forotvm_640x360_800k.m3u8
