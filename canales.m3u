@@ -107,5 +107,5 @@ https://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
 https://ul.cdn946.net:8443/hls/xgpqy4easn8er1.m3u8?s=7PXWzflWWhPN92T4YvYIHA&e=1576114840
 #EXTINF:-1 tvg-logo="#", Comedy Central (P)
 https://ul.cdn946.net:8443/hls/wmpx5oajj.m3u8?s=TECWJM0wTJKIl5wJvAib1Q&e=1576115385
-#EXTINF:-1 tvg-logo="#", Warner Channel (P)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/280px-Warner_Channel.svg.png", Warner Channel (P)
 https://ul.cdn946.net:8443/hls/w4ij7k2nj.m3u8?s=zqlrGEXu40eQlqLvDsTTfg&e=1576115568
