@@ -113,3 +113,5 @@ https://ul.cdn946.net:8443/hls/wmpx5oajj.m3u8?s=TECWJM0wTJKIl5wJvAib1Q&e=1576115
 https://ul.cdn946.net:8443/hls/w4ij7k2nj.m3u8?s=zqlrGEXu40eQlqLvDsTTfg&e=1576115568
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/150px-Sony_Channel_Logo.png", Sony (P)
 https://ul.cdn946.net:8443/hls/wnwxygmj87uk1o.m3u8?s=fZpGoxL2gE0AyHbKRvWINw&e=1576115895
+#EXTINF:-1 tvg-logo="#", Fox Channel (P)
+https://ul.cdn946.net:8443/hls/f9gnocqo6o4cxbe.m3u8?s=1903kDwfc84pYcaz1H5p4w&e=1576124018
